@@ -1,0 +1,11 @@
+D:\mphasis\Phase-4\Feb 13\UserLoginLib\UserLoginLib\bin\Debug\net6.0\UserLoginLib.deps.json
+D:\mphasis\Phase-4\Feb 13\UserLoginLib\UserLoginLib\bin\Debug\net6.0\UserLoginLib.dll
+D:\mphasis\Phase-4\Feb 13\UserLoginLib\UserLoginLib\bin\Debug\net6.0\UserLoginLib.pdb
+D:\mphasis\Phase-4\Feb 13\UserLoginLib\UserLoginLib\obj\Debug\net6.0\UserLoginLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\mphasis\Phase-4\Feb 13\UserLoginLib\UserLoginLib\obj\Debug\net6.0\UserLoginLib.AssemblyInfoInputs.cache
+D:\mphasis\Phase-4\Feb 13\UserLoginLib\UserLoginLib\obj\Debug\net6.0\UserLoginLib.AssemblyInfo.cs
+D:\mphasis\Phase-4\Feb 13\UserLoginLib\UserLoginLib\obj\Debug\net6.0\UserLoginLib.csproj.CoreCompileInputs.cache
+D:\mphasis\Phase-4\Feb 13\UserLoginLib\UserLoginLib\obj\Debug\net6.0\UserLoginLib.dll
+D:\mphasis\Phase-4\Feb 13\UserLoginLib\UserLoginLib\obj\Debug\net6.0\refint\UserLoginLib.dll
+D:\mphasis\Phase-4\Feb 13\UserLoginLib\UserLoginLib\obj\Debug\net6.0\UserLoginLib.pdb
+D:\mphasis\Phase-4\Feb 13\UserLoginLib\UserLoginLib\obj\Debug\net6.0\ref\UserLoginLib.dll
